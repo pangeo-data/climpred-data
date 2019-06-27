@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # code snippet from pydata/xarray-data
 import glob
-from climpred.loadutils import _file_md5_checksum as file_md5_checksum
+from climpred.tutorial import _file_md5_checksum as file_md5_checksum
 
 
 def main():
